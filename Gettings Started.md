@@ -1,2 +1,2 @@
-# Getting Started Documentation
-Getting started Build it Beta documentation
+# Installing Build it Beta
+[Build it Beta instructions!](https://services.builditbeta.com/GuideLine)
