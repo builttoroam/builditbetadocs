@@ -1,5 +1,2 @@
-# builditbetadocs
+# Build it Beta Docs
 Build it Beta Documentation
-# Getting Started
-# Tutorials
-# Fundamentals
