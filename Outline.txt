@@ -1,0 +1,27 @@
+Getting started 
+	Windows 
+		Installing windows
+		Testing your first app
+	Windows Phone
+		Installing windows phone
+		Testing your first app
+		
+Tutorials
+	Deploying an application
+	Managing your applications (add, delete)
+	Adding feedback
+	Rating an app version
+	Managing applications (Deleting app/version)
+	
+	Business features
+		User and Group management
+			Adding groups to an app	
+			Assigning users to an app version
+			Make account owner
+		Configuring app deployment and feedback
+		
+Overview
+	Colours
+	Tabbed feedback
+	Tabbed application
+		

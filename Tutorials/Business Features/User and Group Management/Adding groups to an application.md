@@ -1,0 +1,2 @@
+<h2>How to add Groups of users to your applications</h2>
+As an account owner of an application, you can configure how an application and it's Build it Beta features will be displayed to users who are not an account owner of the application.
