@@ -7,7 +7,7 @@ Below are the individual components that are installed as part of the installati
 <br><br>
 
 <b> Installing Build it Beta from the store </b><br>
-[Build it Beta from the Windows Store](ms-windows-store:PDP?PFN=RoaminTrash.BuilditBeta_3rcb4kf6rvr16)
+[Build it Beta from the Windows Phone Store](zune:navigate?appid=52cd5fbf-b7a2-4888-a008-3b09f98e2ff8)
 <br><br>
 **Install Built to Roam Pty Ltd enterprise deployment certificate**<br>
 [download the Built to Roam deployement certificate](http://data.builditbeta.com/resources/BuildItBetaCertificateInstaller.msi)
