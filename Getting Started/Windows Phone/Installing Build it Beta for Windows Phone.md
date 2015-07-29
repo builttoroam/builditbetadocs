@@ -6,7 +6,7 @@ If you want to install Build it Beta using the online instructions and links con
 Below are the individual components that are installed as part of the installation instructions.
 <br><br>
 
-<b> Installing Build it Beta from the store </b><br>
+<b> Installing Build it Beta from the windows phone store </b><br>
 [Build it Beta from the Windows Phone Store](zune:navigate?appid=52cd5fbf-b7a2-4888-a008-3b09f98e2ff8)
 <br><br>
 **Install Built to Roam Pty Ltd enterprise deployment certificate**<br>
