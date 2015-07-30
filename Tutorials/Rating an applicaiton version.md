@@ -22,7 +22,7 @@ Rating an application can represent the quality of a build, or something specifi
 
 2. Select the application version that you want to rate from the list of **Releases**
 3. Click on **Rate** from the application bar <br><br>
- <img src="..\Images\RateAppBar.png" alt="Rate button" height="80" width="440"><br><br>
+ <img src="..\Images\RatingAppBar.png" alt="Rate button" height="80" width="440"><br><br>
 3. Click and drag your mouse over the number of stars that you want to assign to the application version<br><br>
  <img src="..\Images\RatingStars.png" alt="Unrated application" height="150" width="440"><br><br>
 
