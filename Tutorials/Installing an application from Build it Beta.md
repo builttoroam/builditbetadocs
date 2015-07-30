@@ -17,7 +17,7 @@ To install an application from Build it Beta Installer
 <br>**Note:** The list of versions visible will change when you change the application.
   
 1. Select the version of the application you want to install. <br>**Note:** If an application has already been installed the **Install** will change to **Run** and **Uninstall** buttons
-1. Click on the **Install** button<br><br>
+1. Click on the **Install** button in the bottom section<br><br>
  <img src="..\Images\BIBInstaller.png" alt="Feedback has been viewed" height="300" width="200"> <br><br>
 Once the application has been downloaded and installed, Build it Beta will lauch your application
 
