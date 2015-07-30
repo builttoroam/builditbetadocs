@@ -1,4 +1,4 @@
-## Adding an application to Build it Beta ##
+<h2>Adding an application to Build it Beta</h2>
 To add an application to Build it Beta you can upload your file (.xap, .appx) via email to **upload@builditbeta.com**, double click on a .xap file in Windows, rename .xap to .betaxap and email it to users who can open it directly from email (provided the other users have Build it Beta installed)
 
 ## Email your file to upload@builditbeta.com ##
@@ -41,7 +41,20 @@ Once you have registered your email with Build it Beta (see **Getting Started**)
 
 
 1. A notification will also be raised (if notifications are turned on - in Build it Beta settings), to inform you that the app is now available for testing<br><br>
- <img src="..\Images\PushNotification.png" alt="Feedback has been viewed" height="80" width="440"><br><br>
+ <img src="..\Images\PushNotification.png" alt="Success Notification" height="100" width="440"><br><br>
+
+
+<br>
+## Double click on .xap files ##
+Once you have installed Build it Beta (see **Getting Started**) you can upload your file to Build it Beta for Windows by double clicking on any .xap file.
+<br><br>
+ <img src="..\Images\FileAssociationClick.png" alt=".xap file" height="20" width="440"><br><br>
+
+
+1. .xap files are associated with Build it Beta. When you double click on the .xap file, it will open up Build it Beta upload the .xap file.<br><br>
+ <img src="..\Images\ClickUploadMessage.png" alt="File uploading" height="150" width="440"><br><br>
+
+After the .xap file has been uploaded it will appear as an application in your list of **Applications** in Build it Beta
 
 
 
