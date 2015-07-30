@@ -9,8 +9,8 @@ To add feedback associated with an application in Build it Beta, navigate to the
  <img src="..\Images\FeedbackPage.png" alt="Feedback has been viewed" height="200" width="300"> <br><br>
 1. If you need to attach any (screenshots) of the application - there is an option to do this by clicking on the **Attach** application bar icon. Once you are finished adding feedback and attaching any files, click on the **Submit**<br><br>
  <img src="..\Images\SubmitFeedback.png" alt="Feedback has been viewed" height="80" width="300"> <br><br>
-1. Once submitted, you are taken to the feedback details page where you can **Comment** on the feedback, **Mark as Actioned** and **Unmark Action** the feedback<br><br>
-<img src="..\Images\FeedbackCompleteUnactionedPage.png" alt="Feedback has been viewed" height="220" width="300"> <br><br>
+1. Once submitted, you are taken to the feedback details page where you can **Comment** on the feedback, **Mark as Actioned** and **Unmark Action** the feedback from the application bar<br><br>
+<img src="..\Images\FeedbackCompletedUnactionedAppbar.png" alt="Feedback Details Application Bar" height="80" width="300"> <br><br>
 
 
 
