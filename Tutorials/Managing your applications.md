@@ -1,7 +1,8 @@
-<h2>Adding an application to Build it Beta</h2>
+## Adding an application to Build it Beta ##
 To add an application to Build it Beta you can upload your file (.xap, .appx) via email to **upload@builditbeta.com**, double click on a .xap file in Windows, rename .xap to .betaxap and email it to users who can open it directly from email (provided the other users have Build it Beta installed)
 
-## Email your file to upload@builditbeta.com ##
+**Email your file to upload@builditbeta.com**
+
 Once you have registered your email with Build it Beta (see **Getting Started**) you can upload your file to **upload@builditbeta.com**
 
 1. Create a new email (from the registered email account)
@@ -10,7 +11,7 @@ Once you have registered your email with Build it Beta (see **Getting Started**)
 
 1. Set the recipient as **upload@builditbeta.com** and send
 
-1. Depending on the size of the file (larger file sizes will take longer than smaller file sizes), you will recieve an email from upload@builditbeta.com. A successful email will look similar to:
+1. Depending on the size of the file (larger file sizes will take longer than smaller file sizes), you will recieve an email from upload@builditbeta.com. A **successful** email will look similar to:
 
 
 		Build it Beta - UPLOAD SUCCESS
@@ -45,7 +46,8 @@ Once you have registered your email with Build it Beta (see **Getting Started**)
 
 
 <br>
-## Double click on .xap files ##
+**Double click on .xap files**
+
 Once you have installed Build it Beta (see **Getting Started**) you can upload your file to Build it Beta for Windows by double clicking on any .xap file.
 <br><br>
  <img src="..\Images\FileAssociationClick.png" alt=".xap file" height="20" width="440"><br><br>
@@ -55,6 +57,44 @@ Once you have installed Build it Beta (see **Getting Started**) you can upload y
  <img src="..\Images\ClickUploadMessage.png" alt="File uploading" height="150" width="440"><br><br>
 
 After the .xap file has been uploaded it will appear as an application in your list of **Applications** in Build it Beta
+
+
+
+<br>
+## Deleting an application from Build it Beta ##
+To delete an **application** from Build it Beta for Windows
+
+1. Select the application from the list of **Applications** on the main screen in Build it Beta
+
+1. Click on the **Delete** button in the applicaiton bar. <br>**Note:** **If the application is associated with a Billing Account**, you will need to be a part of the Billing Account for the delete button to enabled
+<br><br>
+ <img src="..\Images\DeleteEnabled.png" alt="File uploading" height="80" width="440"><br><br>
+1. A **Delete** message box will appear. If you proceed, a  **CONFIRM** message box will appear as this action cannot be undone.
+
+1. If you proceed, the applicaiton will be removed and you will be taken back to the main screen in Build it Beta
+
+
+
+
+
+
+
+<br>
+## Deleting an application version from Build it Beta ##
+To delete an **application version** from Build it Beta for Windows
+
+1. Select the application from the list of **Applications** on the main screen in Build it Beta
+
+2. Select the applicaiton version that you want to delete from the **Releases** section
+
+1. Click on the **Delete** button in the applicaiton bar. <br>**Note:** **If the application, that the version belongs to, is associated with a Billing Account**, you will need to be a part of the Billing Account for the delete button to enabled
+<br><br>
+ <img src="..\Images\DeleteAppbar.png" alt="File uploading" height="80" width="440"><br><br>
+1. A **Delete** message box will appear. If you proceed, a  **CONFIRM** message box will appear as this action cannot be undone.
+
+1. If you proceed, the application version will be removed and you will be taken back to the application details.
+
+
 
 
 
