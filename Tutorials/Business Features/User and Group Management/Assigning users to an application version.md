@@ -9,11 +9,11 @@ As an account owner of an application, you can restrict access to an application
 
 2. Select the version of the application that you want to assign users to.
 3. Click on the **Assigned Access** button<br><br>
-  <img src="../../Images/AssignedAccessButton.png" alt="Add users to a group" height="80" width="480"><br><br>
+  <img src="../Images/AssignedAccessButton.png" alt="Add users to a group" height="80" width="480"><br><br>
 4. If you have created **Groups** these will appear to the left of **Users**. **Note** - By default account owners are green. Unassigned users have a blue background behind their name.<br><br>
-  <img src="../../Images/AssignedAccessPage.png" alt="Add users to a group" height="350" width="600"><br><br>
+  <img src="../Images/AssignedAccessPage.png" alt="Add users to a group" height="350" width="600"><br><br>
 4. Click on a user that you want to assign access to this version of the application. Click on a group to assign access to all members that are a part of that group. When you click on a user or group their background header will turn green. (**Note** - you can't unassign an account owner as account owners can see all versions of an application by design)<br><br>
-  <img src="../../Images/AssignedAccessPageChanged.png" alt="Add users to a group" height="350" width="600"><br><br>
+  <img src="../Images/AssignedAccessPageChanged.png" alt="Add users to a group" height="350" width="600"><br><br>
 4. Click on the **Save** button to save any changes you have made. 
 
  
