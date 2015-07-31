@@ -6,6 +6,9 @@
 
 - **Account Owner** - An account owner is someone who has access to modify users and applications associated with an account. An Account can have one or more owners. As an account owner you have additional access to configure features of an application. You can also add and remove other users as account owners of an account.
 
+
+- **Application** - An Application can have one or more versions associated with it. Build it Beta installs a version of an application even if only one version exists, the single version will be installed on your device.
+
 ##B##
 - **Billing Account** - see **Accounts**
 ##C##
