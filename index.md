@@ -1,2 +1,4 @@
 <h2>Build it Beta</h2>
-Testing and feedback tool for Windows and Windows Phone applications. Now has support for Windows Phone 8.0 xap, Windows Phone 8.1 xap and appx package formats. 
+Build it Beta is a testing and feedback tool for Windows and Windows Phone applications. Supports .xap and .appx format packages for Windows and Windows Phone. 
+
+support: **support@builditbeta.com**
