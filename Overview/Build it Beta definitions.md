@@ -9,6 +9,8 @@
 
 - **Application** - An Application can have one or more versions associated with it. Build it Beta installs a version of an application even if only one version exists, the single version will be installed on your device.
 
+- **Assigned Access** - Is a feature reserved for valid account owners. Assigning access is the ability to restrict version visibility by unchecking **Users can view all app versions** in the configuration settings for an application. If a **users** is not assigned to an application version, and **Users can view all app versions** is unchecked in the application configuration, then the user will only be able to see versions they have been assigned to
+
 ##B##
 - **Billing Account** - see **Accounts**
 ##C##
@@ -39,6 +41,7 @@
 ##S##
 ##T##
 ##U##
+- **Users** - Users in the context of an application refer to anyone who is not an **Account Owner**. Users have restricted access to some of the  more configurable settings within Build it Beta like **Assigned Access**
 ##V##
 ##W##
 ##X##
