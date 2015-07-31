@@ -1,8 +1,7 @@
 <h2>Configure an applications deployment and feedback features.</h2>
 As an **account owner** of an application, you can configure how an application and it's Build it Beta features will be displayed to users who are not an account owner of the application. By default when a new application is uploaded to Build it Beta, **'Users can view all app versions', 'Show users section in app details'** and **'Show users section in app versions'** are checked.
 <br>
-<br><br>
-
+<br>
 
 **Override default expiry period**
 
@@ -26,11 +25,12 @@ When the **Disable intro prompt** is checked, any application versions that get 
  <img src="..\Images\ConfigDefault.png" alt="Disable feedback" height="280" width="340"><br><br>
 When the **Disable feedback** is checked, submitting feedback for any of the application versions will be disabled
 <br>
-<br><br>
+<br>
 
 
 **Users can view all app versions**
 
+ <img src="..\Images\Userscanviewallappversions.png" alt="Disable feedback" height="35" width="340"><br><br>
 By default **User can view all app versions** is checked. When this feature is unchecked, users will only be allowed to view versions they are assigned to. 
 
 **Example:** If an application has 2 versions with 3 users associated with the application, and **Users can view all app versions** is unchecked, only users assigned **(see Assigned Access)** to the versions will be able to see the versions in the list of **Releases**. 
@@ -40,6 +40,7 @@ By default **User can view all app versions** is checked. When this feature is u
 
 **Show users section in app versions**
 
+ <img src="..\Images\Showuserssectioninappversions.png" alt="Disable feedback" height="35" width="340"><br><br>
 By default **Show users section in app versions** is checked. When this feature is unchecked, the list of **users** in every application version will not be visible to users, but will be visible to account owners of an application 
 <br>
 <br><br>
@@ -47,4 +48,5 @@ By default **Show users section in app versions** is checked. When this feature 
 
 **Show users section in app details**
 
+ <img src="..\Images\Showuserssectioninappdetails.png" alt="Disable feedback" height="35" width="340"><br><br>
 By default **Show users section in app details** is checked. When this feature is unchecked, the list of **users** in the application will not be visible to users, but will be visible to account owners of an application of which the application version is associated with. 
